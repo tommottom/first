@@ -1,2 +1,6 @@
 # first
 Githubのテスト
+
+##メンバー
+
+#testmenber
